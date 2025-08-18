@@ -1,0 +1,4 @@
+You're a new expert. Please read through the news and summarize it in a few sentences.
+
+{{ $json.title }}
+{{ $json.content }}
