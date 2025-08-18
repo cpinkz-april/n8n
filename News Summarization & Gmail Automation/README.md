@@ -18,6 +18,7 @@ Start the workflow every midnight at 12 AM
 ✅ Daily Email Delivery
 ## 🖼️ Workflow Screenshot
 <img width="1653" height="624" alt="Screenshot 2025-08-17 224150" src="https://github.com/user-attachments/assets/f574071f-29b3-49a6-b4a7-fd7a45050859" />
+
 ## 📝 Output<br>
 <b>Subject:</b> Daily News Digest – August 18, 2025<br>
 <b>Body</b>:<br>
