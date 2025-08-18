@@ -21,7 +21,7 @@ Start the workflow every midnight at 12 AM
 
 ## 📝 Output<br>
 <b>Subject:</b> Daily News Digest – August 18, 2025<br>
-<b>Body</b>:<br>
-- <i>Summary:</i> #1; Duolingo CEO Luis von Ahn clarified that his recent statement about the company becoming an “AI-first company” was misunderstood due to a lack of context. He addressed the backlash by explaining that the messaging around the AI-focused direction needed better explanation.<br>
-- <i>Summary:</i> #2; AI-powered stuffed animals are being developed as interactive companions for children, embedding chatbot technology inside plush toys. While they aim to provide an engaging alternative to traditional screen time, concerns remain about their effectiveness and potential drawbacks. These AI plushies offer novelty and interaction but may not fully replace the benefits of other forms of play or social engagement for kids.<br>
+<b>Body</b>:
+- <i>Summary:</i> #1; Duolingo CEO Luis von Ahn clarified that his recent statement about the company becoming an “AI-first company” was misunderstood due to a lack of context. He addressed the backlash by explaining that the messaging around the AI-focused direction needed better explanation.
+- <i>Summary:</i> #2; AI-powered stuffed animals are being developed as interactive companions for children, embedding chatbot technology inside plush toys. While they aim to provide an engaging alternative to traditional screen time, concerns remain about their effectiveness and potential drawbacks. These AI plushies offer novelty and interaction but may not fully replace the benefits of other forms of play or social engagement for kids.
 - <i>Summary:</i> #3; Anthropic has introduced new features in its latest Claude AI models that enable them to recognize and end harmful or abusive conversations. These enhancements allow the AI to protect itself by proactively stopping interactions that involve abuse or harmful content.
